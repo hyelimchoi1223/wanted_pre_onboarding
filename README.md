@@ -3,4 +3,4 @@
 
 ## 과제
 1. Tokenizer 클래스 완성
-2. TfidfVectorizer 클래스 완
+2. TfidfVectorizer 클래스 완성
